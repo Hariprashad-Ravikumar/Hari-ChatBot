@@ -111,11 +111,11 @@
       const q = input.value.trim();
       if (!q) return;
 
-      chat.insertAdjacentHTML("beforeend", `<p><b>You:</b> ${q}</p>`);
+      chat.insertAdjacentHTML("beforeend", `<p><b style="color:#001f3f">You:</b> <span style="color:#001f3f">${q}</span></p>`);
       scrollToBottom();
       input.value = "";
 
-      chat.insertAdjacentHTML("beforeend", `<p id="loading">HariBot is typing…</p>`);
+      chat.insertAdjacentHTML("beforeend", `<p id="loading">HariBot is typing …</p>`);
       scrollToBottom();
 
       try {
