@@ -30,4 +30,4 @@ Welcome to HariBot, a custom-built AI chatbot powered by the OpenAI API. Designe
 | **Hosting**    | GitHub Pages         |
 
 
-![Demo](demo/demo.jpg)
+![Demo](demo/demo.png)
