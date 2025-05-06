@@ -111,7 +111,7 @@
       const q = input.value.trim();
       if (!q) return;
 
-      chat.insertAdjacentHTML("beforeend", `<p><b style="color:#2c3e50">You:</b> <span style="color:#2c3e50">${q}</span></p>`);
+      chat.insertAdjacentHTML("beforeend", `<p><b style="color:#1f77b4">You:</b> <span style="color:#1f77b4">${q}</span></p>`);
       scrollToBottom();
       input.value = "";
 
@@ -126,7 +126,7 @@
         });
         const data = await r.json();
         document.getElementById("loading").remove();
-        chat.insertAdjacentHTML("beforeend", `<p><b style="color:#333333;">HariBot:</b> <span style="color:#333333;">${data.reply}</span></p>`);
+        chat.insertAdjacentHTML("beforeend", `<p><b style="color:#2e2e2e;">HariBot:</b> <span style="color:#2e2e2e;">${data.reply}</span></p>`);
         scrollToBottom();
       } catch (err) {
         document.getElementById("loading").remove();
