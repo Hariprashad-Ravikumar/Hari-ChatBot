@@ -1,7 +1,3 @@
-"""
-If the environment variable OPENAI_API_KEY is present, it will reply with GPT-3.5
-"""
-
 from flask import Flask, request, jsonify
 import os
 
@@ -37,10 +33,10 @@ def rule_reply(user_msg: str) -> str:
             return ans
     return "Sorry, I only answer questions about Hari’s background and work."
 
-# ---------- routes ----------
+
 @app.route("/")
 def home():
-    return app.send_static_file("index.html")  # serve simple page
+    return app.send_static_file("index.html") 
 
 @app.route("/chat", methods=["POST"])
 def chat():
