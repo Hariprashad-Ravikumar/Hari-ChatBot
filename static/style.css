@@ -21,35 +21,6 @@ h2 {
   margin-top: 1rem;
 }
 
-form {
-  display: flex;
-  margin-top: 1rem;
-}
-
-input {
-  flex: 1;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  font-size: 1rem;
-  outline: none;
-}
-
-button {
-  background: #001f3f;
-  color: white;
-  border: none;
-  padding: 10px 16px;
-  border-radius: 6px;
-  margin-left: 8px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-
-button:hover {
-  background: #003366;
-}
 #msgForm {
   display: flex;
   margin-top: 1rem;
@@ -79,5 +50,3 @@ button:hover {
 #msgForm button:hover {
   background-color: #003366; /* darker navy on hover */
 }
-
-
