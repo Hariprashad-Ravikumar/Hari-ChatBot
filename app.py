@@ -9,8 +9,8 @@ import os
 
 USE_OPENAI = bool(os.getenv("OPENAI_API_KEY"))
 if USE_OPENAI:
-    import openai
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+    from openai import OpenAI          
+    client = OpenAI() 
 
 app = Flask(__name__)
 
@@ -26,7 +26,7 @@ Facts:
 
 # ---------- helpers ----------
 def gpt_reply(user_msg: str) -> str:
-    resp = openai.ChatCompletion.create(
+    resp = client.chat.completions.create( 
         model="gpt-3.5-turbo",
         messages=[{"role": "system", "content": SYSTEM_PROMPT},
                   {"role": "user", "content": user_msg}],
