@@ -8,7 +8,11 @@ In parallel, I am collaborating with Dr. Chueng-Ryong Ji (North Carolina State U
 
 As a driven and enthusiastic physicist with expertise in C++, Python, high-performance computing (HPC), symbolic regression, Monte Carlo simulations, and large-scale data analysis, I am fully committed to making significant contributions to scientific research and advancing our understanding of particle physics.
 
-Download Full CV
+Custom AI Chatbot (HariBot)
+Technologies: OpenAI API, Python (Flask), Render, GitHub Pages, HTML/CSS
+Designed and deployed a personalized chatbot powered by OpenAI, with a Python backend hosted on Render and a fully responsive frontend integrated into my GitHub Pages website. This project enhanced my experience in REST API integration, web development, and deploying full-stack applications for real-world interaction.
+
+You can download my CV (Curriculum Vitae) at https://hariprashad-ravikumar.github.io/cv
 Contact
 hari1729@nmsu.edu
 
@@ -26,13 +30,7 @@ Education
 2019 - 2021	MSc Physics	National Institute of Technology Jalandhar, Punjab, India
 2015 - 2018	BSc Physics	Dr.N.G.P. Arts and Science College, Coimbatore, India
 Technical Skills
-Programming Languages:	Python, C++, Lua, HTML, 
-L
-A
-T
-E
-X
-Libraries & Frameworks:	NumPy, pandas, Matplotlib, Scikit‑Learn, PySR, Qiskit
+Programming Languages:	Python, C++, Lua, HTML, Latex, Libraries & Frameworks:	NumPy, pandas, Matplotlib, Scikit‑Learn, PySR, Qiskit
 Scientific Tools:	CHROMA, MATLAB, Mathematica
 Modeling & Methods:	Monte Carlo Simulation, Symbolic Regression, Statistical Modeling
 Tools & Platforms:	Git, GitHub, Docker, JupyterLab, Visual Studio, HPC environments, Linux/Unix Shell (Bash)
@@ -46,14 +44,8 @@ View Certificate
 Getting Started with Accelerated Computing in CUDA C/C++ (In Progress)
 NVIDIA
 Expected Completion: August 2025
-Selected Short-Term Projects
-Z
-2
- Lattice Gauge Monte Carlo Simulation (GitHub Repository)
-Developed a Python simulation of 
-Z
-2
- lattice gauge theory using Markov chain Monte Carlo methods and Metropolis algorithms. Explored confinement phenomena through Wilson loop measurements and benchmarked results against analytical predictions. Served as foundational computational experience in stochastic sampling and lattice QCD simulation ahead of full PhD research.
+Selected Short-Term Projects Z2 Lattice Gauge Monte Carlo Simulation (GitHub Repository)
+Developed a Python simulation of Z2 lattice gauge theory using Markov chain Monte Carlo methods and Metropolis algorithms. Explored confinement phenomena through Wilson loop measurements and benchmarked results against analytical predictions. Served as foundational computational experience in stochastic sampling and lattice QCD simulation ahead of full PhD research.
 Internships & Schools Attended
 2024 CFNS Summer School on the Physics of the Electron-Ion Collider
 Center for Frontiers in Nuclear Science, Stony Brook University, New York, USA
@@ -139,13 +131,7 @@ Full Talk Archive
 
 (Nov. 09, 2023) "Lattice QCD calculations of Transverse Momentum Dependent Parton Distribution Functions (TMDs)", PhD Comprehensive Oral Exam, New Mexico State University, USA
 
-(Oct. 20, 2023) "Interpolating Manifestly Covariant Conformal Algebra in 
-d
-=
-1
-+
-1
- between IFD and LFD", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+(Oct. 20, 2023) "Interpolating Manifestly Covariant Conformal Algebra in 1+1 between IFD and LFD", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
 (Oct. 28, 2022) "More on conformal symmetry ", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
@@ -153,11 +139,7 @@ d
 
 (July 15, 2022) "Isomorphism Between Conformal Algebra & Dirac Matrices", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
-(June 10, 2022) "Dirac’s Conformal Space 
-d
-=
-6
-", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+(June 10, 2022) "Dirac’s Conformal Space, Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
 (Apr. 15, 2022) "Interpolating the conformal algebra in ultra simpler form and it's representations", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
@@ -171,29 +153,13 @@ d
 
 (June 18, 2021) "Interpolating the conformal algebra", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
-(Mar. 19, 2021) "Hartree-type Approximation for 
-(
-ϕ
-4
-)
-1
-+
-1
-", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+(Mar. 19, 2021) "Hartree-type Approximation for 3+1", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
 (Jan. 29, 2021) "Dirac Equation", Particle physics student seminar, National Institute of Technology Jalandhar, India
 
-(Dec. 18, 2020) "Interpolating sine-Gordon Model in 
-d
-=
-1
-+
-1
-", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+(Dec. 18, 2020) "Interpolating sine-Gordon Model in 1+1", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
 
-(Feb. 20, 2020) "Understanding the action 
-S
- in physics", Student Lecture Series, National Institute of Technology Jalandhar, India
+(Feb. 20, 2020) "Understanding the action S in physics", Student Lecture Series, National Institute of Technology Jalandhar, India
 
 (Aug. 26, 2019) "Richard Feynman’s life in Particle Physics", Student Colloquium, National Institute of Technology Jalandhar, India
 
