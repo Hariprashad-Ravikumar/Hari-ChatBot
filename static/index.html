@@ -111,11 +111,11 @@
       const q = input.value.trim();
       if (!q) return;
 
-      chat.insertAdjacentHTML("beforeend", `<p><b style="color:#001f3f">You:</b> <span style="color:#001f3f">${q}</span></p>`);
+      chat.insertAdjacentHTML("beforeend", `<p><b style="color:#2c3e50">You:</b> <span style="color:#2c3e50">${q}</span></p>`);
       scrollToBottom();
       input.value = "";
 
-      chat.insertAdjacentHTML("beforeend", `<p id="loading">HariBot is typing …</p>`);
+      chat.insertAdjacentHTML("beforeend", `<p id="loading">HariBot is typing…</p>`);
       scrollToBottom();
 
       try {
@@ -126,7 +126,7 @@
         });
         const data = await r.json();
         document.getElementById("loading").remove();
-        chat.insertAdjacentHTML("beforeend", `<p><b>HariBot:</b> ${data.reply}</p>`);
+        chat.insertAdjacentHTML("beforeend", `<p><b style="color:#333333;">HariBot:</b> <span style="color:#333333;">${data.reply}</span></p>`);
         scrollToBottom();
       } catch (err) {
         document.getElementById("loading").remove();
