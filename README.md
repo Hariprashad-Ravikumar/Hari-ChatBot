@@ -1,9 +1,43 @@
-# HariBot – Personal Website Chatbot
+# HariBot AI – Personal Website Chatbot
 
-A tiny Flask + GPT-3.5 chatbot that answers questions about Hariprashad
-Ravikumar.  Deployed on Render’s free tier and embedded in GitHub Pages.
+Welcome to HariBot, a custom-built AI chatbot powered by the OpenAI API. Designed to provide intelligent responses, streamline information access, and enhance user engagement, this project integrates Python (Flask) backend with a responsive HTML/CSS frontend hosted via GitHub Pages, and deployed on Render.
 
-## Quick start
-1. `pip install -r requirements.txt`
-2. `export OPENAI_API_KEY=sk-...`  # or omit for rule-based fallback
-3. `python app.py`
+🚀 Live Demo
+
+👉 Try it out on my personal website:
+[hariprashad-ravikumar.github.io
+](https://hariprashad-ravikumar.github.io/)
+
+
+✨ Features
+
+🔗 Seamless integration of OpenAI GPT-powered chat
+🧠 Dynamic response generation via API
+🌐 Backend hosted on Render
+🖥️ Frontend embedded into GitHub Pages site
+📱 Fully responsive UI for mobile and desktop
+🎯 Designed for academic and professional audience interaction
+
+
+🛠️ Tech Stack
+
+| Component      | Technology           |
+| -------------- | -------------------- |
+| **AI Engine**  | OpenAI GPT (via API) |
+| **Backend**    | Python (Flask)       |
+| **Deployment** | Render               |
+| **Frontend**   | HTML, CSS            |
+| **Hosting**    | GitHub Pages         |
+
+
+📂 Project Structure
+
+├── backend/
+│   └── app.py               # Flask server handling API requests
+├── frontend/
+│   ├── index.html           # Main chatbot page
+│   ├── style.css            # Custom styling
+│   └── script.js            # Handles chat interaction
+└── README.md
+
+
