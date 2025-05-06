@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ask HariBot</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <h2>Ask me anything about Hari 👋</h2>
+
+  <div id="chat"></div>
+
+  <form id="msgForm">
+    <input id="msgInput" autocomplete="off" placeholder="Type a question…" />
+    <button>Send</button>
+  </form>
+
+  <script>
+    const chat = document.getElementById("chat");
+    const form = document.getElementById("msgForm");
+    const input = document.getElementById("msgInput");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const q = input.value.trim();
+      if (!q) return;
+      chat.insertAdjacentHTML("beforeend", `<p><b>You:</b> ${q}</p>`);
+      input.value = "";
+
+      const r = await fetch("/chat", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({message: q})
+      });
+      const data = await r.json();
+      chat.insertAdjacentHTML("beforeend", `<p><b>HariBot:</b> ${data.reply}</p>`);
+      chat.scrollTop = chat.scrollHeight;
+    });
+  </script>
+</body>
+</html>
