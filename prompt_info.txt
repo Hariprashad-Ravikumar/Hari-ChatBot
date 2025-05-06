@@ -1,0 +1,223 @@
+I am a theoretical particle physics PhD candidate at New Mexico State University, USA. I am currently engaged in research aimed at understanding the intrinsic motion of quarks and gluons inside the nucleons.
+
+My PhD research under Dr. Michael Engelhardt (NMSU) focuses on lattice quantum chromodynamics (QCD), which is based on Markov chain Monte Carlo simulations of discretized space-time fields. In particular, I work on calculating Transverse Momentum Dependent Parton Distribution Functions (TMDs) such as generalized Sivers shift, which represents the average transverse momentum of unpolarized quarks orthogonal to the transverse spin of the proton. I analyze the dependence of Sivers TMDs on the longitudinal momentum fraction of the quark by placing the Wilson gauge link in various off-axis directions on the lattice simulations. The analysis also utilizes PySR symbolic regression, a machine learning (ML) technique, to extract analytical functions from the lattice data.
+
+I am also collaborating with Dr. Rajan Gupta and Dr. Tanmoy Bhattacharya from Los Alamos National Laboratory (T2) on a research project focused on lattice quantum chromodynamics (QCD) calculations of the hadronic matrix elements needed to connect nucleon Electric Dipole Moments (EDMs) to Standard Model (SM) and Beyond Standard Model (BSM) physics. This project is supported by a Travel Grant from the New Mexico Consortium at Los Alamos.
+
+In parallel, I am collaborating with Dr. Chueng-Ryong Ji (North Carolina State University) on a research project that involves interpolating the manifestly covariant conformal group SO(4,2) between the instant form and the light-front form of relativistic dynamics. One of the main goals of this work is to study the conformal invariance of high-energy scattering processes in the aforementioned interpolating form dynamics. For a recent presentation on this topic, visit Dr. Ji’s NC State research group page.
+
+As a driven and enthusiastic physicist with expertise in C++, Python, high-performance computing (HPC), symbolic regression, Monte Carlo simulations, and large-scale data analysis, I am fully committed to making significant contributions to scientific research and advancing our understanding of particle physics.
+
+Download Full CV
+Contact
+hari1729@nmsu.edu
+
+Office 363, Gardiner Hall
+
+Department of Physics
+
+New Mexico State University
+
+1255 N. Horseshoe, Las Cruces, NM 88003, USA
+
+Education
+2021 - Present	PhD Physics	New Mexico State University, USA
+2021 - 2024	MS Physics	New Mexico State University, USA
+2019 - 2021	MSc Physics	National Institute of Technology Jalandhar, Punjab, India
+2015 - 2018	BSc Physics	Dr.N.G.P. Arts and Science College, Coimbatore, India
+Technical Skills
+Programming Languages:	Python, C++, Lua, HTML, 
+L
+A
+T
+E
+X
+Libraries & Frameworks:	NumPy, pandas, Matplotlib, Scikit‑Learn, PySR, Qiskit
+Scientific Tools:	CHROMA, MATLAB, Mathematica
+Modeling & Methods:	Monte Carlo Simulation, Symbolic Regression, Statistical Modeling
+Tools & Platforms:	Git, GitHub, Docker, JupyterLab, Visual Studio, HPC environments, Linux/Unix Shell (Bash)
+Certifications
+Google Advanced Data Analytics Professional Certificate (Issued: April 2025)
+Google
+Credential ID: U0HU8UKT89L4
+Intro to Machine Learning (Issued: May 2025)
+Kaggle
+View Certificate
+Getting Started with Accelerated Computing in CUDA C/C++ (In Progress)
+NVIDIA
+Expected Completion: August 2025
+Selected Short-Term Projects
+Z
+2
+ Lattice Gauge Monte Carlo Simulation (GitHub Repository)
+Developed a Python simulation of 
+Z
+2
+ lattice gauge theory using Markov chain Monte Carlo methods and Metropolis algorithms. Explored confinement phenomena through Wilson loop measurements and benchmarked results against analytical predictions. Served as foundational computational experience in stochastic sampling and lattice QCD simulation ahead of full PhD research.
+Internships & Schools Attended
+2024 CFNS Summer School on the Physics of the Electron-Ion Collider
+Center for Frontiers in Nuclear Science, Stony Brook University, New York, USA
+June 03 - June 14, 2024
+2023 Hampton University Graduate Studies (HUGS) Summer Program
+Thomas Jefferson National Accelerator Facility, Newport News, USA
+May 30 - June 16, 2023
+HUGS Scholarship recipient
+2022 TMD Winter School
+Organized by the DOE Topical Collaboration for the Coordinated Theoretical Approach to TMD Hadron Structure in QCD
+Santa Fe, USA
+January 20 - 26, 2022
+2021 National Nuclear Physics Summer School (NNPSS)
+Organized jointly by Universidad Nacional Autónoma de México (Mexico) and Indiana University (USA)
+June 21 - 25, 2021
+2018 Astrophysics Summer School: An Observational View of the Universe
+Indian Institute of Astrophysics, Bengaluru, India
+June 04 - August 03, 2018
+Indian Academy of Sciences IASC-INSA-NASI Summer Research Fellowship recipient
+Research under the guidance of Prof. B. Ravindra (Indian Institute of Astrophysics, Bengaluru)
+2018 Radio Astronomy Summer School
+National Centre for Radio Astrophysics - Tata Institute of Fundamental Research, Pune, India
+July 02 - 06, 2018
+Workshops & Courses Attended
+XXIV DAE-BRNS Symposium in High Energy Physics
+National Institute of Science Education and Research, India
+December 14 - 18, 2020
+International Workshop on Applications of Group Theory in Physics
+Department of Physics, Assam University, Silchar, India
+November 02 - 11, 2020
+Short-Term Course on Advances in High Energy Physics
+National Institute of Technology Jalandhar, India
+September 18 - 22, 2020
+National Workshop on Theoretical Physics
+Ramakrishna Mission Vivekananda Educational and Research Institute, Kolkata, India
+December 18 - 21, 2017
+Global Initiative of Academic Network’s Course on Introduction To Light Front Hadron Physics
+Mumbai University, India
+Instructors: Prof. Stanley J Brodsky (Stanford University / SLAC) and Prof. Chueng-Ryong Ji (North Carolina State University)
+September 11 - 16, 2017
+Global Initiative of Academic Network’s Course on The Field Theory Of Classical And Quantum Phase Transition
+National Institute of Technology Goa, India
+Instructor: Prof. Flávio S Nogueira (Institute for Theoretical Solid State Physics, Germany)
+July 03 - July 13, 2017
+Merit Awards
+2023 George and Barbara Goedecke Physics Excellence Fund Scholarship
+Awarded by NMSU Physics Department
+2021 Graduate Success Scholarship
+Awarded by NMSU Graduate School
+2018 IASC-INSA-NASI Summer Research Fellowship
+Awarded by Indian Academy of Sciences
+Graduate-Level Coursework
+Computational Physics	: Quantum Computing, Advanced Computational Physics
+Theoretical Physics	: Classical Mechanics, Statistical Mechanics, Quantum Mechanics I & II, Quantum Field Theory I & II, General Relativity I, Electromagnetic Theory I & II
+Experimental Physics	: Advanced Experimental Nuclear Physics
+Graduate Assistantships
+Research Assistant, NMSU (2022–2025):
+Conducting research in Lattice QCD under Dr. Michael Engelhardt, including symbolic regression (PySR), high-performance computing (HPC), and theoretical modeling as part of PhD dissertation work.
+Teaching Assistant, NMSU (2021–2023):
+Led undergraduate physics labs, discussion sections, and tutoring for physics courses (Electromagnetism and Mechanics).
+
+Projects
+Z2 Lattice Gauge Monte Carlo Simulation (GitHub Repository)
+Developed a Python simulation of Z2 lattice gauge theory using Markov chain Monte Carlo methods and Metropolis algorithms. Explored confinement phenomena through Wilson loop measurements and benchmarked results against analytical predictions. Served as foundational computational experience in stochastic sampling and lattice QCD simulation ahead of full PhD research.
+
+Selected Talks
+(Jun. 07, 2024) "Lattice QCD calculations of Sivers TMD x dependency", 2024 CFNS Summer School on the Physics of the Electron-Ion Collider, Center for Frontiers in Nuclear Science, Stony Brook University, NY, USA
+
+(May 16, 2024) "Lattice QCD calculations of x dependence of Sivers TMD", T-2 Seminar, Theoretical Division (T-2), Los Alamos National Laboratory, USA
+
+(June 15, 2023) "Lattice QCD calculations of TMDs", HUGS Student Seminar Presentation, Thomas Jefferson National Accelerator Facility, Newport News, USA
+
+(Dec. 02, 2021) "Interpolating conformal algebra between the instant form and the front form of relativistic dynamics", In Light Cone 2021: Physics of Hadrons on the Light Front, Jeju Island, South Korea (online)
+
+Full Talk Archive
+(Jan. 31, 2025) "Witt Algebra Interpolation between IFD and LFD", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(May 10, 2024) "Conformal Algebra", 2024 Spring - PHYS-692 - Quantum Field Theory II Final Presentation, New Mexico State University, USA
+
+(May 06, 2024) "Quantum Circuit Complexity, and AdS/CFT", 2024 Spring - PHYS-520 - Quantum Computing Final Presentation, New Mexico State University, USA ("Final Project Report")
+
+(Dec. 01, 2023) "Lattice QCD calculations of TMDs", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Nov. 09, 2023) "Lattice QCD calculations of Transverse Momentum Dependent Parton Distribution Functions (TMDs)", PhD Comprehensive Oral Exam, New Mexico State University, USA
+
+(Oct. 20, 2023) "Interpolating Manifestly Covariant Conformal Algebra in 
+d
+=
+1
++
+1
+ between IFD and LFD", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Oct. 28, 2022) "More on conformal symmetry ", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Sept. 16, 2022) "It Is All About The Rotations - But In 6 Dimensions", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(July 15, 2022) "Isomorphism Between Conformal Algebra & Dirac Matrices", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(June 10, 2022) "Dirac’s Conformal Space 
+d
+=
+6
+", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Apr. 15, 2022) "Interpolating the conformal algebra in ultra simpler form and it's representations", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Mar. 11, 2022) "Interpolating the Conformal Algebra in Ultra Simpler Form", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Feb. 04, 2022) "Conformal-Poincare group algebra structure in the interpolating dynamics", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Sept. 24, 2021) "Momentum operator components’ transformation under SCT", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Sept. 2021) "The Poincaré Algebra Interpolation", MSc thesis defense, National Institute of Technology Jalandhar, India (online)
+
+(June 18, 2021) "Interpolating the conformal algebra", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Mar. 19, 2021) "Hartree-type Approximation for 
+(
+ϕ
+4
+)
+1
++
+1
+", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Jan. 29, 2021) "Dirac Equation", Particle physics student seminar, National Institute of Technology Jalandhar, India
+
+(Dec. 18, 2020) "Interpolating sine-Gordon Model in 
+d
+=
+1
++
+1
+", Dr. Chueng-Ryong Ji's research group meeting, North Carolina State University, USA (Online)
+
+(Feb. 20, 2020) "Understanding the action 
+S
+ in physics", Student Lecture Series, National Institute of Technology Jalandhar, India
+
+(Aug. 26, 2019) "Richard Feynman’s life in Particle Physics", Student Colloquium, National Institute of Technology Jalandhar, India
+
+Publications in Preparation
+Ji, C.-R. & Ravikumar, H. (to be published). Interpolating conformal algebra (1 + 1) between the instant form and the front form of relativistic dynamics.
+
+Ravikumar, H. & Ji, C.-R. (in preparation). Interpolating conformal algebra (3 + 1) between the instant form and the front form of relativistic dynamics.
+
+Conference Publication
+Ji, C.-R., Dahiya, H., & Ravikumar, H. (2021, December). Interpolating conformal algebra between the instant form and the front form of relativistic dynamics . Presented at Light Cone 2021 – Physics of Hadrons on the Light Front, Jeju Island, South Korea.
+
+MSc Thesis
+Ravikumar, H. (2021, August). The Poincaré Algebra Interpolation between Instant Form Dynamics (IFD) and Light-Front Dynamics (LFD) (Master’s thesis). National Institute of Technology, Jalandhar, India.
+
+Supervised by Prof. Harleen Dahiya (NIT Jalandhar), in collaboration with Prof. Chueng-Ryong Ji (North Carolina State University).
+
+Working in particle physics, specifically in the Light Front framework, has long been a drive for me ever since I attended Prof.\@ Stanley Brodsky’s (one of the pioneers of Light Front Field Theory) one-week course in person. The weekly problem discussions with my advisor, the calculations, and the paper reviews strengthened my fundamentals and equipped me for graduate school. Considering my keenness in this field that I have been enriching along the way; I want to do my PhD in particle physics. Moreover, the NMSU Physics Graduate program is the best place for me because of the department's outstanding mentorship and effective research environment.\\
+
+   During my high school, questions like why Newton's and Coulomb's laws follow the inverse square law, why abstract auxiliary variables like entropy play a vital role in physics, why an electron does not fall into the nucleus, and how to explain why $i^i$ takes a real value intuitively, had made me inspired in physics and math. I followed the Caltech Mechanical Universe, Walter Lewin's, and other standard courses to understand those problems and clarify my misconceptions. Several counter-intuitive concepts like the pendulum’s frequency does not depend on mass, the electric field inside the faraday cage is zero (later, I learned about the discontinuity of electric field over conducting surface) motivated me to pursue a major in physics. Furthermore, popular science books and physics documentaries such as The Cosmos and The Elegant Universe boosted my motivation.\\
+
+  As I went on to do a bachelor's degree in physics, my curiosity gradually focused on particle physics and astrophysics after finding several ingenious concepts from Feynman's lectures and Susskind's Theoretical Minimum courses. Notably, I learned about abstract auxiliary variables other than entropy, such as lagrangian and electromagnetic four-potential, that have a hugely significant role in physics. Moreover, the 19th chapter of Feynman's lecture, Volume 2 (The Principle of Least Action), enlightened me by revealing the connection between action formulation and quantum mechanics. From Prof.\@ Kenneth Young’s lecture on action, I realized that action formalism lays the fundamental foundation for the whole of physics. From Landau-Lifshitz's Mechanics, I learned about Lagrangian's Arbitrariness, the freedom in Lagrangian to add a total time derivative to itself. The consequences of Lagrangian's arbitrariness in the Hamiltonian intrigued and excited me to learn further. Soon, I learned the relationship between gauge freedom and the arbitrariness of Lagrangian when I started studying Classical Electrodynamics. The electrodynamics problems that charmed me most at an undergraduate level were modifying Maxwell's equations for massive photons (Proca equation) and magnetic monopoles—since then, learning about Solitons has long been one of my objectives.\\ 
+
+  During the summer of 2018, I got an opportunity to do a reading project at the Indian Institute of Astrophysics under Dr.\@ B.\@ Ravindra. As part of the project, I studied the photospheric and chromospheric features and coronal activities using Kodaikanal Solar Observatory data. Further, I learned about solar neutrinos and specifically about the neutrino problem. This project motivated my interest also in Theoretical Astrophysics. \\
+
+  At the end of my bachelor’s degree, I got a chance to attend Prof.\@ Stanley Brodsky’s one-week course on ``Introduction to Light Front Hadron Physics" in person. Those excellent lectures delivered by Prof.\@ Stanley Brodsky and Prof.\@ Chueng Ji introduced me to the Quark Model, Fundamental Interactions, Light-Front Field Theory, and Quantum Chromodynamics. I got more enthusiastic about particle physics after several illuminating discussions with professors, postdocs, and PhD students I met there. This exposure prompted me to choose the light-front field theory as my research area. Presently, I am doing an MSc at NIT-Jalandhar; I specifically preferred this institute to further my experience and interest in Light front dynamics due to the research group's presence under Dr.\@ Harleen Dahiya (my current advisor).\\
+
+  During the first year of my MSc, my interest in mathematical physics also gradually increased since I started learning group theory, complex analysis, and Green’s function. While learning QFT, the elegant way it automatically takes causality into account when we do the contour integration to solve the Green’s function for the Klein-Gordon operator has captivated me the most. Furthermore, I have been pondering the group structure of a set of all the arbitrarily possible Lagrangians for a system and that group’s properties. Last year, while learning classical field theory and covariant formulation, I tried to write a possible Lagrangian density that gives the modified Maxwell’s equations with a magnetic monopole. I had taken two sets of potentials (instead of 1 set) and made Lorentz invariance out of it to form Lagrangian density. Later, I found that my Magneto-electric Field tensor matches the Faraday tensor (Hodge dual). I am trying to understand the connections between those two sets of potentials. Problems like these motivate me. Also, I have been learning Analysis 1 and Abstract Group Theory to improve my mathematical preciseness and skills. To tackle any problem, I follow the bottom-up approach, comprehending one small question at a time and developing an understanding of the subject as I go along, investigating all possible related questions progressively. I like to visualize the problem via figures to deepen my perception, and consequently, I look for prospective solutions. I have been advancing myself through all my professors’ guidance and utilizing available facilities in my institute.
