@@ -50,3 +50,36 @@ button {
 button:hover {
   background: #003366;
 }
+#msgForm {
+  display: flex;
+  margin-top: 1rem;
+}
+
+#msgInput {
+  flex: 1;
+  padding: 10px 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+}
+
+#send-btn {
+  background: #001f3f; /* Navy blue */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 8px;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+#send-btn:hover {
+  background: #003366;
+  transform: translateY(-1px);
+}
+
