@@ -36,11 +36,11 @@ h2 {
 }
 
 #msgForm button {
-  background-color: #001f3f; /* navy blue */
+  background-color: #001f3f; 
   color: white;
   border: none;
-  padding: 0 16px;
-  border-radius: 50%;
+  padding: 8px 16px; 
+  border-radius: 8px; 
   font-size: 1.2rem;
   cursor: pointer;
   margin-left: 10px;
@@ -48,5 +48,5 @@ h2 {
 }
 
 #msgForm button:hover {
-  background-color: #003366; /* darker navy on hover */
+  background-color: #003366; 
 }
