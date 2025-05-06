@@ -30,14 +30,3 @@ Welcome to HariBot, a custom-built AI chatbot powered by the OpenAI API. Designe
 | **Hosting**    | GitHub Pages         |
 
 
-📂 Project Structure
-
-├── backend/
-│   └── app.py               # Flask server handling API requests
-├── frontend/
-│   ├── index.html           # Main chatbot page
-│   ├── style.css            # Custom styling
-│   └── script.js            # Handles chat interaction
-└── README.md
-
-
