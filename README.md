@@ -7,7 +7,6 @@ Welcome to HariBot, a custom-built AI chatbot powered by the OpenAI API. Designe
 👉 Try it out on my personal website:
 [hariprashad-ravikumar.github.io
 ](https://hariprashad-ravikumar.github.io/)
-![Demo](demo/demo.jpg)
 
 
 ✨ Features
@@ -31,3 +30,4 @@ Welcome to HariBot, a custom-built AI chatbot powered by the OpenAI API. Designe
 | **Hosting**    | GitHub Pages         |
 
 
+![Demo](demo/demo.jpg)
