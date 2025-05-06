@@ -1,7 +1,5 @@
 """
-Minimal Flask backend for “HariBot”.
-If the environment variable OPENAI_API_KEY is present, it will reply with GPT-3.5;
-otherwise it falls back to a tiny rule-based answer set.
+If the environment variable OPENAI_API_KEY is present, it will reply with GPT-3.5
 """
 
 from flask import Flask, request, jsonify
@@ -14,17 +12,10 @@ if USE_OPENAI:
 
 app = Flask(__name__)
 
-SYSTEM_PROMPT = """
-You are Hariprashad (“Hari”) Ravikumar’s personal website chatbot.
-Answer ONLY questions about Hari’s background, research, and skills.
-Politely refuse unrelated requests.
-Facts:
-- Physics PhD candidate at New Mexico State University; graduation target Spring 2026
-- Research: lattice QCD, GPU-accelerated HPC, symbolic regression (PySR)
-- Collaborations: LANL, NC State; tools: CHROMA, C++, Python
-"""
+with open("prompt_info.txt", "r") as f:
+    SYSTEM_PROMPT = f.read()
 
-# ---------- helpers ----------
+
 def gpt_reply(user_msg: str) -> str:
     resp = client.chat.completions.create( 
         model="gpt-3.5-turbo",
