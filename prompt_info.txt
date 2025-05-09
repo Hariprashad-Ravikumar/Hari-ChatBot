@@ -12,6 +12,12 @@ Custom AI Chatbot (HariBot)
 Technologies: OpenAI API, Python (Flask), Render, GitHub Pages, HTML/CSS
 Designed and deployed a personalized chatbot powered by OpenAI, with a Python backend hosted on Render and a fully responsive frontend integrated into my GitHub Pages website. This project enhanced my experience in REST API integration, web development, and deploying full-stack applications for real-world interaction.
 
+I am a PhD candidate in theoretical particle physics transitioning to a career in data science, leveraging my extensive research background to solve real-world problems through data-driven methods. I specialize in high-performance computing (HPC), advanced data analysis, and machine learning (scikit‑learn, PySR), and predictive modeling. In my academic research, I utilized high‑performance computing (HPC) - CHROMA and Lua for GPU‑accelerated lattice QCD simulations—to run large‑scale, parallelized computations and perform rigorous statistical modeling. This experience sharpened my expertise in C++, Python, and R and expanded my proficiency in ETL, data visualization, CI/CD, SQL, and cloud deployments.
+
+I excel at translating complex datasets into actionable insights and thrive on tackling challenging analytical problems. My background in physics research enables me to quickly adapt to new domains and uncover meaningful patterns in data. 
+
+I am open to roles in Data Science, Machine Learning Engineering, or Data Analyst, where my scientific rigor, advanced programming skills, and machine learning expertise can drive innovation and deliver measurable impact.
+
 My website: https://hariprashad-ravikumar.github.io/
 My Linkedin: https://www.linkedin.com/in/hariprashad-ravikumar/
 My GitHub: https://github.com/Hariprashad-Ravikumar
