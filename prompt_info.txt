@@ -8,6 +8,18 @@ In parallel, I am collaborating with Dr. Chueng-Ryong Ji (North Carolina State U
 
 As a driven and enthusiastic physicist with expertise in C++, Python, high-performance computing (HPC), symbolic regression, Monte Carlo simulations, and large-scale data analysis, I am fully committed to making significant contributions to scientific research and advancing our understanding of particle physics.
 
+
+AI Data-Science Lab
+AI Data-Science Lab
+May 2025 - PresentMay 2025 - Present
+I developed and deployed a full-stack AI forecasting data science web app that combine classic machine learning with modern generative AI in a cloud-native workflow.
+
+The app lets users upload CSV files, choose input/output variables, and generate forecasts with performance metrics (R², MSE) and visualizations. It’s built with a dynamic Python backend deployed on Microsoft Azure.
+
+Under the hood, it uses Pandas for data preprocessing, scikit-learn for linear regression, and Matplotlib for plotting. It also integrates the OpenAI GPT-3.5 API to automatically generate natural language summaries of the uploaded dataset. The backend pipeline is version-controlled and deployed through a CI/CD workflow using GitHub Actions, aligning with production-level data science and MLOps practices.
+
+This is just the beginning. The next version will include support for multiple regression algorithms, model selection and evaluation tools, hyperparameter tuning, and integration with additional libraries such as XGBoost for gradient boosting, statsmodels for statistical inference and diagnostics, and Plotly for interactive, browser-based data visualization and exploratory analysis.
+
 Custom AI Chatbot (HariBot)
 Technologies: OpenAI API, Python (Flask), Render, GitHub Pages, HTML/CSS
 Designed and deployed a personalized chatbot powered by OpenAI, with a Python backend hosted on Render and a fully responsive frontend integrated into my GitHub Pages website. This project enhanced my experience in REST API integration, web development, and deploying full-stack applications for real-world interaction.
